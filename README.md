@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nishanthr93
 - 👀 I’m interested in Backend Stuff like NodeJs,PHP,cloud technologies.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/nishanthan-r/
 
 <!---
